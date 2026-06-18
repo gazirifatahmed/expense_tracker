@@ -4,7 +4,7 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'views/dashboard_screen.dart';
 
 void main() async {
-  // Flutter binding নিশ্চিত করা
+  
   WidgetsFlutterBinding.ensureInitialized();
   
   // Hive ইনিশিয়ালি সেশন এবং লোকাল বক্স ওপেন করা
