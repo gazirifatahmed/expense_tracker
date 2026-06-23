@@ -1,3 +1,10 @@
+<img width="800" height="480" alt="Untitled dzzesign (7)" src="https://github.com/user-attachments/assets/98ff64d0-33c8-417b-bd4a-dbbd0c5000f2" />
+<img width="800" height="480" alt="Untitled design1" src="https://github.com/user-attachments/assets/31f1d989-4a09-41f5-b222-1fe6d59487dc" />
+<img width="800" height="480" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/4f45c427-b771-4fca-b44f-df5517963282" />
+
+
+https://github.com/user-attachments/assets/26036cd4-27c1-474c-a7a3-a7a1af9d066d
+
 # FeastWealth – Premium Personal Expense Tracker
 
 FeastWealth is a high-performance, cross-platform personal finance management mobile application built with Flutter. It features a sleek, premium fintech user interface that empowers users to seamlessly track income and expenses, visualize real-time analytics, and manage daily records efficiently with zero latency.
